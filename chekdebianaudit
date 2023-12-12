@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# sokdr
+# copy from sokdr
 #
 tput clear
 trap ctrl_c INT
